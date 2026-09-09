@@ -1,50 +1,48 @@
-<h2 align="center"> Hey there, I'm John Ekunola 👋🏾</h2>
+<h1 align="center">Hey, I'm John Ekunola 👋🏾</h1>
+
 <p align="center">
-<!--   <a href="https://www.johnekunola.com/" target="_blank">Website</a> • -->
-  <a href="https://new-portfolio-ochre-eight.vercel.app/" target="_blank">Website</a> •
+  <a href="https://new-portfolio-ochre-eight.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/ekunolajohn/" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/Oluwatosin_EJ" target="_blank">Twitter</a>
+  <a href="https://twitter.com/Oluwatosin_EJ" target="_blank">Twitter</a> •
+  <a href="mailto:ekunolajohn@gmail.com">Email</a>
 </p>
 
-<!--
-**Jizzyjay/Jizzyjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-I'm a Frontend Engineer, based in Lagos, Nigeria. I am passionate about web technologies and making the web accessible to everyone.
-
-I am an innovative and highly motivated front-end developer with proven skills in software development, technical writing, and leadership. I am passionate about problem-solving with code and constantly strive to improve my skills.
-
-When not working on a project or thinking about coding, I would most likely watch Movies on Netflix, play video games, and spend time with family and friends.
-
-<!-- **I am currently seeking a Frontend Developer position with an exciting company.** -->
-
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-
-- I am currently looking for new remote opportunities.
-- 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
-- 🌱 I’m currently learning React.js.
-- 👯 I’m looking to collaborate on React projects.
-- 💬 Ask me about Frontend Development. 
-- 📫 How to reach me: [Twitter](https://twitter.com/Oluwatosin_EJ) || [LinkedIn](https://www.linkedin.com/in/ekunolajohn/) || Email: ekunolajohn@gmail.com
-- ⚡ Fun fact: I enjoy watching football, good movies, and hanging out😄.
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidjs/solid.png"></code>
-
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=Jizzyjay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  Frontend Engineer based in Lagos, Nigeria 🇳🇬 — building fast, accessible interfaces with React & Next.js
+</p>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jizzyjay)](https://github.com/Jizzyjay/github-readme-stats)
+### About Me
 
+I'm a frontend developer with 3+ years of experience turning designs into clean, production-ready interfaces. I care about problem-solving with code, writing components that are actually reusable, and making the web work well for everyone, not just on a good connection with a big screen.
+
+Outside of code, you'll usually find me watching football or a good movie, gaming, or spending time with family and friends.
+
+### What I'm Up To
+
+- 💼 Open to new remote frontend opportunities
+- 🏗️ Currently building out dashboard/data-viz work with React, Redux, and charting libraries
+- 🌱 Deepening my React.js and TypeScript skills
+- 🤝 Open to collaborating on open source and React projects
+- 💬 Ask me about frontend development, component architecture, or Figma-to-code workflows
+- 📫 Reach me: [Twitter](https://twitter.com/Oluwatosin_EJ) · [LinkedIn](https://www.linkedin.com/in/ekunolajohn/) · ekunolajohn@gmail.com
+
+### Tech Stack
+
+<p>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidjs/solid.png" alt="SolidJS" />
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jizzyjay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="John's GitHub stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jizzyjay&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="Top languages" />
+</p>
